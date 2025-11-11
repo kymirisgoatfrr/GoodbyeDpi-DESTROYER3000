@@ -13,6 +13,8 @@ Tutorial:
 
 3-Reboot in SafeMode
 
-4-Run this script [Remove-GoodbyeDPI-Complete.ps1](Remove-GoodbyeDPI-Complete.ps1) in an Admin Powershell
+4-Either Sign the script yourself, or make a new text file and copy the script there
 
-5-You're free of GoodbyeDPI and all the misery it caused to your mental health and your computer's connection
+5-Run this script [Remove-GoodbyeDPI-Complete.ps1](Remove-GoodbyeDPI-Complete.ps1) in an Admin Powershell
+
+6-You're free of GoodbyeDPI and all the misery it caused to your mental health and your computer's connection
