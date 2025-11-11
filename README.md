@@ -1,7 +1,8 @@
 # GoodbyeDpi-DESTROYER3000
 Scans all of your pc for Goodbye DPI components to FORCEFULLY get rid of all of them using powershell, safe mode
 
-### NOTICE: Use at your own risk. See [LICENSE](LICENSE)
+> [!CAUTION]
+> ### NOTICE: Use at your own risk. See [LICENSE](LICENSE)
 
 Tutorial:
 
