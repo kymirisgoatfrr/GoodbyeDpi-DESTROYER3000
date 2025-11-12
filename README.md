@@ -51,10 +51,12 @@ Tutorial:
    - Reboot scheduling for files that can't be deleted immediately
    - Comprehensive summary report with detailed statistics
     
-PARAMETER None
-    This script does not accept parameters. Run it as Administrator.   
+PARAMETERS
+
+This script does not accept parameters. Run it as Administrator.
+
 NOTES
-    - MUST be run as Administrator
-    - Best results when run in Safe Mode (prevents GoodbyeDPI from running)
-    - System directories are protected to prevent accidental deletion of Windows files
-    - If files can't be deleted, reboot into Safe Mode and run again
+- MUST be run as Administrator
+- Best results when run in Safe Mode (prevents GoodbyeDPI from running)
+- System directories are protected to prevent accidental deletion of Windows files
+- If files can't be deleted, reboot into Safe Mode and run again
