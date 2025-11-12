@@ -16,6 +16,6 @@ Tutorial:
 
 4-Either Sign the script yourself, or make a new text file and copy the script there
 
-5-Run this script [Remove-GoodbyeDPI-Complete.ps1](Remove-GoodbyeDPI-Complete.ps1) in an Admin Powershell
+5-Run that script [(Remove-GoodbyeDPI-Complete.ps1)](Remove-GoodbyeDPI-Complete.ps1) in an Admin Powershell
 
 6-You're free of GoodbyeDPI and all the misery it caused to your mental health trying to remove it and your computer's connection
