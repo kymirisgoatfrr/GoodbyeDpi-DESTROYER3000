@@ -25,4 +25,4 @@ Tutorial:
 
 5-Run that script [(Remove-GoodbyeDPI-Complete.ps1)](Remove-GoodbyeDPI-Complete.ps1) in an Admin Powershell
 
-6-You're free of GoodbyeDPI and all the misery it caused to your mental health trying to remove it and your computer's connection
+6-You're free of GoodbyeDPI and all the misery it caused to your mental health trying to remove it and your computer's connection. You can restart your computer now and enjoy the remaining of your life as a free man.
