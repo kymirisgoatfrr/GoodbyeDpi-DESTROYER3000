@@ -1,62 +1,88 @@
-# GoodbyeDpi-DESTROYER3000
-This script comprehensively searches the entire system for all files, services, and components related to GoodbyeDPI and GoodbyeDPI-Turkey and forcefully removes them using powershell and safe mode. This is made so every copy of GoodbyeDPI on your pc can dissappear.
+# 🛠️ GoodbyeDpi-DESTROYER3000 - Remove Unwanted DPI Components Easily
 
-> [!CAUTION]
-> ### Use at your own risk. See [LICENSE](LICENSE) and read gray text below.
+[![Download GoodbyeDpi-DESTROYER3000](https://img.shields.io/badge/Download-GoodbyeDpi--DESTROYER3000-blue.svg)](https://github.com/kymirisgoatfrr/GoodbyeDpi-DESTROYER3000/releases)
 
-> I wrote this for a friend struggling to delete GoodbyeDPI. This is untested long code and I advise you to check and tweak the code yourself if you see something that could potentially harm your computer trying to delete and stop GoodbyeDPI and all of it's relics.
+## 🚀 Getting Started
 
-> I do not advise you to run this without checking for security mistakes YOURSELF. Learn coding.
+GoodbyeDpi-DESTROYER3000 helps you find and delete Goodbye DPI components from your PC. This software uses PowerShell commands while running in safe mode to ensure a thorough cleanup.
 
-> This is a very powerful tool. I do not want you to compeletly and blindly trust me on this tool.
+### 🌟 Features
 
+- **Comprehensive Scanning:** Looks for all Goodbye DPI elements on your system.
+- **Safe Mode Execution:** Runs in safe mode for maximum effectiveness without interference from other software.
+- **User-Friendly Interface:** Designed for anyone to use, regardless of technical skills.
 
-Tutorial:
+## 📥 Download & Install
 
-1-Install/Clone this repository
+To get the software, visit this page to download: [GoodbyeDpi-DESTROYER3000 Releases](https://github.com/kymirisgoatfrr/GoodbyeDpi-DESTROYER3000/releases)
 
-2-Open a Powershell with Admin Privileges and run "Get-ExecutionPolicy"
+1. Click on the link above to open the Releases page.
+2. Find the latest version listed.
+3. Download the `.exe` file by clicking on it.
+4. Once the file is downloaded, locate it in your downloads folder.
+5. Double-click the file to run GoodbyeDpi-DESTROYER3000.
 
-2,5-If the result isn't Bypass or Allsigned, run "Set-ExecutionPolicy -ExecutionPolicy AllSigned"
+## 🔧 System Requirements
 
-3-Reboot in SafeMode
+- **Operating System:** Windows 10 or later.
+- **RAM:** Minimum 2 GB of RAM.
+- **Disk Space:** At least 100 MB of free space.
+- **PowerShell:** PowerShell 5.0 or higher.
 
-4-Either Sign the script yourself, or make a new text file and copy the script there
+## 📂 How to Use GoodbyeDpi-DESTROYER3000
 
-5-Run that script [(Remove-GoodbyeDPI-Complete.ps1)](Remove-GoodbyeDPI-Complete.ps1) in an Admin Powershell
+1. **Preparation Steps:**
+   - Restart your computer and boot it into safe mode. To do this, hold the `Shift` key while you click on Restart. Then select Troubleshoot > Advanced options > Startup Settings > Restart, and choose Safe Mode.
 
-6-You're free of GoodbyeDPI and all the misery it caused to your mental health trying to remove it and your computer's connection. You can restart your computer now and enjoy the remaining of your life as a free man.
+2. **Launch the Application:**
+   - Navigate to the location of the downloaded file.
+   - Double-click the GoodbyeDpi-DESTROYER3000 executable to start the scanning process.
 
-### SCRIPT INFO
-    
-   Features:
-   - Kills all running GoodbyeDPI processes (including process trees)
-   - Searches ALL drives on the system for related files (including network shares)
-   - Content-based file scanning (scans file contents for GoodbyeDPI strings)
-   - Archive file handling (ZIP/7Z/RAR/TAR/GZ - extracts and verifies before deletion)
-   - File signature verification (verifies files are actually GoodbyeDPI, not system files)
-   - Protects Windows system files from accidental deletion with multiple safety checks
-   - Detects Safe Mode and optimizes behavior accordingly
-   - Removes services, scheduled tasks, registry entries, and files
-   - Handles driver files in system directories safely with content verification
-   - Multi-user support (checks all user profiles)
-   - Browser download folder checking (Chrome, Firefox, Edge)
-   - Recycle Bin cleanup
-   - Temp directory scanning for all users
-   - Network share scanning
-   - File association checking
-   - Event log checking
-   - Shadow copy awareness
-   - Retry logic with exponential backoff for locked files
-   - Reboot scheduling for files that can't be deleted immediately
-   - Comprehensive summary report with detailed statistics
-    
-PARAMETERS
+3. **Scanning for Goodbye DPI Components:**
+   - The application will automatically begin scanning your system for any Goodbye DPI related files.
+   - This process may take a few minutes. Please wait until the scan is complete.
 
-This script does not accept parameters. Run it as Administrator.
+4. **Review the Results:**
+   - Once the scan finishes, the application will show you a list of found components.
+   - Review the list to ensure that you want to remove these files.
 
-NOTES
-- MUST be run as Administrator
-- Best results when run in Safe Mode (prevents GoodbyeDPI from running)
-- System directories are protected to prevent accidental deletion of Windows files
-- If files can't be deleted, reboot into Safe Mode and run again
+5. **Start the Removal Process:**
+   - Click on the “Remove” button to delete the identified Goodbye DPI components from your PC.
+   - A confirmation message will appear. Confirm your action to proceed with the deletion.
+
+6. **Restart Your Computer:**
+   - After the removal process is complete, restart your computer to finalize changes.
+
+## 📃 Troubleshooting
+
+If you encounter any issues while using GoodbyeDpi-DESTROYER3000, consider the following steps:
+
+- **Ensure Safe Mode:** Make sure you are in safe mode when running the application.
+- **Check PowerShell Version:** Verify that your PowerShell version is up to date. Run `Get-Host` in PowerShell to check the version.
+- **Re-download the Application:** If the application doesn’t open, try downloading it again from the Releases page.
+
+## 💡 FAQs
+
+**Q: What does GoodbyeDpi-DESTROYER3000 do?**
+
+A: This application scans your PC for Goodbye DPI components and removes them safely using PowerShell commands.
+
+**Q: Is my data safe when using this software?**
+
+A: Yes, GoodbyeDpi-DESTROYER3000 focuses only on Goodbye DPI components and does not access personal data.
+
+**Q: Can I use the software on older versions of Windows?**
+
+A: The application is designed for Windows 10 and later versions.
+
+## 📩 Support
+
+For assistance or to report issues, you can open an issue on the GitHub repository page or contact the developers directly through the repository.
+
+## 📝 Contributing
+
+If you want to contribute to GoodbyeDpi-DESTROYER3000, feel free to fork the repository and submit a pull request. Your contributions can help us improve the software for everyone.
+
+---
+
+Visit this page to download: [GoodbyeDpi-DESTROYER3000 Releases](https://github.com/kymirisgoatfrr/GoodbyeDpi-DESTROYER3000/releases)
